@@ -1,0 +1,7 @@
+.list-subject:hover{
+    background: #808F85;
+}
+
+.list-subject.custom-active{
+    background: #91C499;
+}
